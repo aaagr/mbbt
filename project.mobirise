@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MBB",
-    "currentPage": "careers.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -92,8 +92,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "MBB — Strategy | Business | Management | Innovation | Advisory | Consultancy",
+        "meta_descr": "Tomorrow's growth,\ntoday.\n\nAdvisory, implementation and innovation support that\nfuels growth, faster.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
