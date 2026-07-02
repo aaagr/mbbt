@@ -83,9 +83,7 @@
     "gdpr": false,
     "witsec-white-label": true,
     "screenshot": "screenshot.png",
-    "usedWebp": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
