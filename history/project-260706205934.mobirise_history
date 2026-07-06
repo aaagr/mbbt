@@ -59,7 +59,7 @@
     "uniqCompNum": 87,
     "versionPublish": "6.1.12",
     "favicon": "@PROJECT_PATH@/assets/images/favic-b-180.png",
-    "mbrsiteDomain": "fmcxcymmea",
+    "mbrsiteDomain": "raf7aqlxfr",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -83,7 +83,9 @@
     "gdpr": false,
     "witsec-white-label": true,
     "screenshot": "screenshot.png",
-    "usedWebp": false
+    "usedWebp": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
